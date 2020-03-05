@@ -22,5 +22,5 @@ else:
 preco_total = (qtd_latas * preco_lata)
 print('Sr(a). {} vai precisar de {} lata(s) para área de {} m²'.format(nome, qtd_latas, area))
 print('O valor total da Nota Fiscal será: {}'.format(preco_total))
-print('>>>>>>>>>>> imprindo >>>>>>>>>>>>')
+print('>>>>>>>>>>> imprimindo >>>>>>>>>>>>')
 time.sleep(5)
