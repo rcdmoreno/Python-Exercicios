@@ -1,0 +1,6 @@
+NUMBER = input("")
+HORAS_TRABALHADAS = input("")
+VALOR_HORA = input("")
+SALARY = (int(HORAS_TRABALHADAS) * float(VALOR_HORA))
+print("NUMBER =",NUMBER)
+print("SALARY = U$ {:.2f}".format(SALARY))
